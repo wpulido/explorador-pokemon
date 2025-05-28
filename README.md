@@ -78,10 +78,10 @@ explorador-pokemon/
   La aplicación utiliza dos consultas principales:
 
   - Una query paginada (infinite query) para el listado de Pokémon.
-  - Una query global (con `limit=10000`) para obtener todos los Pokémon y poder filtrar la búsqueda de forma global.
+  - Una query global para obtener todos los Pokémon y poder filtrar la búsqueda de forma global.
 
 - **Experiencia de usuario:**  
-  Se han implementado loaders fijos (4 segundos al cargar y 2 segundos para búsquedas) y transiciones animadas para mejorar la percepción de rendimiento y la interactividad de la interfaz.
+  Se han implementado loaders fijos y transiciones animadas para mejorar la percepción de rendimiento y la interactividad de la interfaz.
 
 ## Contribuciones
 
