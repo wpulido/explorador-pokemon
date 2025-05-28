@@ -11,10 +11,6 @@ function App() {
         <Link to="/">
           <img src="/pokeball.svg" width={50} alt="Pokemon Explorer" />
         </Link>
-
-        <div className="grow-4">
-          <Link to="/">Home</Link>
-        </div>
       </nav>
 
       {/*routes */}
